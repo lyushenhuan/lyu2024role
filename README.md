@@ -50,7 +50,7 @@ pip install scikit-learn==1.4.2
   title={The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest},
   author={Lyu, Shen-Huan and Wu, Jin-Hui and Zheng, Qin-Cheng and Ye, Baoliu},
   booktitle={Proceedings of the 27th European Conference on Artifical Intelligence},
-  pages={},
+  pages={2042--2049},
   year={2024}
 }
 ```
